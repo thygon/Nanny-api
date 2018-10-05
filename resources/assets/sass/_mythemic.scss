@@ -1,0 +1,37 @@
+.navbar-default .brand{
+	padding:20px 30px !important;
+}
+.text-primary{
+	color:$myteal !important;
+}
+
+.btn-primary{background:$myteal !important}
+.bg-primary{background:$myteal !important}
+
+.sidebar .nav li a.active{
+	border-left-color:$myteal !important;
+}
+.sidebar .nav li a.active .lnr{
+	color:$myteal !important;
+}
+.sidebar .nav li a:hover i{
+	color:$myteal !important;
+}
+.sidebar .nav li a:hover{
+	border-left-color:$myteal !important;
+}
+
+.sidebar .nav li a:focus i{
+	color:$myteal !important;
+}
+.sidebar .nav li a:focus{
+	border-left-color:$myteal !important;
+}
+
+.layout-fullwidth #wrapper .btn-toggle-fullwidth{
+	color:$myteal !important;
+}
+
+.auth-box .right .overlay{
+	background:rgba(19,168,158,0.8) !important;
+}
